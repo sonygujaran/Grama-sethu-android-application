@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Grama-Sethu</string>
+    <string name="app_tagline">Rural Bridge Monitor</string>
+    <string name="bridge_open">Open — Safe to Cross</string>
+    <string name="bridge_damaged">Damaged — Use Caution</string>
+    <string name="bridge_submerged">Submerged — Do NOT Cross!</string>
+    <string name="report_bridge">Report Bridge Status</string>
+    <string name="monsoon_alerts">Monsoon Alerts</string>
+    <string name="simulate_monsoon">Simulate Monsoon</string>
+    <string name="last_updated">Last updated</string>
+    <string name="alternate_route">Alternate Route</string>
+</resources>

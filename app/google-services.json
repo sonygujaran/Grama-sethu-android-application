@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "739648624455",
+    "project_id": "gramasethu-b483f",
+    "storage_bucket": "gramasethu-b483f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:739648624455:android:a32bd733b51c015c69de62",
+        "android_client_info": {
+          "package_name": "com.gramasethu.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJsREPugPUDjOx7samWMU5_nhbZYK1E7E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
